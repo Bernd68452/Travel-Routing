@@ -1,5 +1,4 @@
-Netlifly: 
-travelz.netlify.app
+
 
 # Getting Started with Create React App
 
